@@ -1,24 +1,18 @@
-# Básico
-| Como utilizar o Git e GitHub? |
-| -------- |
-|- Repositório destinado a estudos sobre o GIT e GITHUB|
+## Como utilizar o Git e GitHub?
+- Repositório destinado a estudos sobre o GIT e GITHUB
 
-| O que é Git? |
-| -------- |
-| O Git é um sistema de controle de versão que permite rastrear as alterações feitas em seus arquivos ao longo do tempo.|
+## O que é Git?
+- O Git é um sistema de controle de versão que permite rastrear as alterações feitas em seus arquivos ao longo do tempo.
 
-| O que é GitHub? |
-| -------- |
-| O GitHub é um servidor na nuvem. |
+## O que é GitHub? 
+- O GitHub é um servidor na nuvem. 
 
-| Como instalar o Git? |
-| -------- |
-| Para usar o Git, você precisa instalá-lo em seu computador. |
-| Link: [Link para baixar o Git](https://git-scm.com/) |
+# Como instalar o Git? 
+## Para usar o Git, você precisa instalá-lo em seu computador. 
+> Link: [Link para baixar o Git](https://git-scm.com/) 
 
-| Como criar uma conta no GitHub? |
-| -------- |
-| Link: [Link para criar/acessar uma conta do GitHub](https://github.com/signup) |
+## Como criar uma conta no GitHub? 
+> Link: [Link para criar/acessar uma conta do GitHub](https://github.com/signup) 
 
 
 
