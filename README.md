@@ -9,10 +9,10 @@
 
 ## Como instalar o Git?
 - Para usar o Git, você precisa instalá-lo em seu computador.
-- Link: [Link para baixar o Git](https://git-scm.com/)
+> Link: [Link para baixar o Git](https://git-scm.com/)
 
 ## Como criar uma conta no GitHub?
-- Link: [Link para criar/acessar uma conta do GitHub](https://github.com/signup)
+> Link: [Link para criar/acessar uma conta do GitHub](https://github.com/signup)
 
 
 
