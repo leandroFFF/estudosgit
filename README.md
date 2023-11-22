@@ -16,7 +16,7 @@
 
 | Clonar Repositório para sua máquina                 |
 | -------- |
-| git clone URL_DO_REPOSITÒRIO |
+| git clone URL_DO_REPOSITORIO |
 
 | Subir alterações para o GitHub(Servidor)            |
 | -------- |
