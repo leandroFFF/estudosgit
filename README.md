@@ -1,5 +1,8 @@
-# Como utilizar o Git e GitHub?
-- Repositório destinado a estudos sobre o GIT e GITHUB
+| Básico |
+| ------- |
+|# Como utilizar o Git e GitHub?|
+| ------- |
+|- Repositório destinado a estudos sobre o GIT e GITHUB|
 
 ## O que é Git?
 - O Git é um sistema de controle de versão que permite rastrear as alterações feitas em seus arquivos ao longo do tempo.
