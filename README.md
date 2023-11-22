@@ -14,6 +14,21 @@
 ## Como criar uma conta no GitHub? 
 > Link: [Link para criar/acessar uma conta do GitHub](https://github.com/signup) 
 
+| Clonar Repositório para sua máquina                 |
+| -------- |
+| git clone URL_DO_REPOSITÒRIO |
+
+| Subir alterações para o GitHub(Servidor)            |
+| -------- |
+| git add. |
+| git commit -m "MENSAGEM"                            |
+| git push |
+
+| Repositório para pull request                       |
+| -------- |
+| git checkout -b NOME_REPOSITORIO_AUXILIAR           |
+- Este repositório será usado para solicitar pull requests de forma a evitar subir direto para o repósitório principal(master)
+- assim dependerá da aprovação para subir para o repósitório master
 
 
 
